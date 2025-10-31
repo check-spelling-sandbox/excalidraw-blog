@@ -22,7 +22,7 @@ Whether you're brainstorming with your team, conducting interviews, or host clas
 
 ## How to use
 
-For now, to use a specific embedded app such as Excalidraw in your Webex meeting, you will first need to enable it for for your organization (as an administrator) — once that's done, you will be able to use Excalidraw in your meetings going forward.
+For now, to use a specific embedded app such as Excalidraw in your Webex meeting, you will first need to enable it for your organization (as an administrator) — once that's done, you will be able to use Excalidraw in your meetings going forward.
 
 When you open the Excalidraw app for the first time, you will see a blank canvas. You can draw something to prepare beforehand, or you can start collaborating right away by clicking the "Open together" button at the bottom of the screen. See these steps illustrated on our [Webex homepage](https://webex.excalidraw.com/#how-to-install).
 
