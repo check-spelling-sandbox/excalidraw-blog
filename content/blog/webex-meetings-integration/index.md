@@ -39,5 +39,5 @@ Also, collaborating between browsers and desktop clients doesn't work reliably y
 As with Excalidraw itself, we will be improving the Webex integration as time goes on, but even now we are confident it can offer a great value when conducting your meetings. Have fun! ❤️
 
 <div style="margin-bottom: 2em; text-align: center">
-Visit <a href="https://webex.excalidraw.com/#how-to-install" target="_blank" rel="noopener noreferer">webex.excalidraw.com</a> for more.
+Visit <a href="https://webex.excalidraw.com/#how-to-install" target="_blank" rel="noopener noreferrer">webex.excalidraw.com</a> for more.
 </div>
