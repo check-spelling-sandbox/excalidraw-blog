@@ -16,7 +16,7 @@ Listening to your stories it's amazing what you use Excalidraw for in the wild, 
 
 ## Excalidraw in Webex
 
-Whether you're brainstoring with your team, conducting interviews, or host classroom sessions, Excalidraw for Webex gives you the ability to collaborate on drawings right where you make your call without the need to switch apps.
+Whether you're brainstorming with your team, conducting interviews, or host classroom sessions, Excalidraw for Webex gives you the ability to collaborate on drawings right where you make your call without the need to switch apps.
 
 <video src="./webex-blog-promo.mp4" autoplay playsinline loop muted style="width: 100%; height: auto;"></video>
 
