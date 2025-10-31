@@ -34,7 +34,7 @@ Note that the collaboration room is active only for the duration of the meeting.
 
 Some features you are used to from [excalidraw.com](https://excalidraw.com) such as exporting to [Excalidraw Plus](https://plus.excalidraw.com) or the recently added image support isn't yet available in Webex Meetings due to a few platform limitations that will be resolved over the coming weeks. For similar reasons, some features available on specific operating systems may not work on others (such as exporting to a file, which currently only works on Windows).
 
-Also, collaborating between browsers and desktop clients doesn't work reliably yet as there's no official support for Emebedded Apps in browsers yet, so best stick to the desktop application.
+Also, collaborating between browsers and desktop clients doesn't work reliably yet as there's no official support for Embedded Apps in browsers yet, so best stick to the desktop application.
 
 As with Excalidraw itself, we will be improving the Webex integration as time goes on, but even now we are confident it can offer a great value when conducting your meetings. Have fun! ❤️
 
