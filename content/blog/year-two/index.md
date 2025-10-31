@@ -58,7 +58,7 @@ At the onset of the year, Aakansha has added [a view mode](https://github.com/ex
 
 https://twitter.com/excalidraw/status/1356350401944158211
 
-[Riley Schnee](https://twitter.com/rileyschnee) [imlemented](https://github.com/excalidraw/excalidraw/pull/2520) for object flipping.
+[Riley Schnee](https://twitter.com/rileyschnee) [implemented](https://github.com/excalidraw/excalidraw/pull/2520) for object flipping.
 
 https://twitter.com/excalidraw/status/1375479950535458819
 
