@@ -62,7 +62,7 @@ https://twitter.com/excalidraw/status/1356350401944158211
 
 https://twitter.com/excalidraw/status/1375479950535458819
 
-Creating new shapes should be easy and fun, but sometimes you need a bit more control. One example is the the line/arrow editor where you can modify or add new points (double-click on a line or select it and hit Enter). Recently, we've added support for [selecting multiple points at once](https://github.com/excalidraw/excalidraw/pull/4373), and more is yet to come.
+Creating new shapes should be easy and fun, but sometimes you need a bit more control. One example is the line/arrow editor where you can modify or add new points (double-click on a line or select it and hit Enter). Recently, we've added support for [selecting multiple points at once](https://github.com/excalidraw/excalidraw/pull/4373), and more is yet to come.
 
 https://twitter.com/dluzar/status/1470389942262054920
 
